@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Admin Perf", "SQL Admin Perf\SQL Admin Perf.ssmssqlproj", "{EFFCDFB4-F611-4602-885C-E4FD54A216E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFFCDFB4-F611-4602-885C-E4FD54A216E4}.Default|Default.ActiveCfg = Default
+		{BCD7A086-DB65-409E-8CD3-2D57A2683B10}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4CC76FF-5531-4A05-A513-01D26493A4DF}
+	EndGlobalSection
+EndGlobal
